@@ -25,12 +25,12 @@ We welcome contributions from everyone! Whether you're fixing a typo, squashng a
 3.  **Submit a PR:** Follow our contribution guidelines (see `CONTRIBUTING.md` in specific repos).
 4.  **Get Recognized:** All contributors are featured on our website and project READMEs!
 
-## 🎯 Our Roadmap (2026)
+<!-- ## 🎯 Our Roadmap (2026)
 
 - [ ] Launch the "First Contribution" event for all semesters.
 - [ ] Deploy the [Project Name] stable v1.0.
 - [ ] Host our first 24-hour Open Source Hackathon.
-- [ ] Establish a mentorship pipeline for GSOC/LFX Prep.
+- [ ] Establish a mentorship pipeline for GSOC/LFX Prep. -->
 
 ## 📬 Get in Touch
 
