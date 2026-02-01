@@ -1,6 +1,6 @@
 # 🪐 Open Source Atria (OS Atria)
 
-Welcome to the official GitHub home of **Open Source Atria**, the premier hub for open-source innovation at Atria Institute of Technology. We are a hybrid student collective — Apex Community x OSCode Student Chapter — dedicated to building software that matters.
+Welcome to the official GitHub home of **Open Source Atria**, the premier hub for open-source innovation at Atria Institute of Technology. We are a hybrid student collective — Apex Community × OSCode Student Chapter — dedicated to building software that matters.
 
 [**Visit our Website**](https://osatria.in) | [**Join the Community**](https://chat.whatsapp.com/DmWJm7XyQjeAg1psXWUj6K?mode=gi_t)
 
